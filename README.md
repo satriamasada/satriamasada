@@ -18,7 +18,7 @@ Saya sedang dalam misi mengeksplorasi dunia pengembangan web dengan bantuan AI. 
 | **Tools** | ChatGPT / Gemini | VS Code |
 
 ### 📈 Statistik GitHub
-![Statistik Satria](https://github-readme-stats.vercel.app/api?username=satriamasada&show_icons=true&theme=radical)
+![Statistik Streak](https://github-readme-streak-stats.herokuapp.com/?user=satriamasada&theme=dark)
 
 ---
 
